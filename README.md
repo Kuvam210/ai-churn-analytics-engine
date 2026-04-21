@@ -54,13 +54,13 @@ From your presentation:
 
 ```bash
 ├── LLM_Integrated_Churn_Prediction.ipynb   # Main notebook
-├── customer_churn_dataset.csv              # Dataset
-├── xgb_churn_model.pkl                     # Trained XGBoost model
-├── scaler.pkl                              # Feature scaler
-├── feature_columns.pkl                     # Feature pipeline
 ├── Predicting-Customer-Churn.pptx          # Project presentation
 ├── README.md
+├── customer_churn_dataset.csv              # Dataset
+├── feature_columns.pkl                     # Feature pipeline
 ├── requirements.txt
+├── scaler.pkl                              # Feature scaler
+├── xgb_churn_model.pkl                     # Trained XGBoost model
 ```
 
 ---
